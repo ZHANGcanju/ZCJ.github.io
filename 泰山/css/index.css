@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{height: 800px;width: 100%;}
+.head{height: 100px;width: auto;background-color: darkgreen;}
+.head ul li{
+	float: left;
+	list-style: none;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.head ul li a{
+	color: white;
+	text-decoration: none;
+}
+.head-img{
+	height: 700px;width: 100%;
+}
+.bottom{height: 100px;width: 100%;background-color: #006400;margin-top: 10px;}
+.bottom p{
+	font-size: 22px;
+	float: left;
+	margin: 40px 200px;
+	text-align: center;
+	color: white;
+}
+.middle{height: 300px;width: 100%;margin: 20px ;background-color: #F6F6F6;}
+.left{height: 300px;width: 30%;float: left;border:20px solid #006400; background-color: dimgrey; border-radius: 15px;line-height: 40px;}
+.left h1{text-align: center;color: white;}
+.left p{font-size: 30px;font-family: "楷体";color: white;}
+.right{height: 300px;width: 68%;}
+.img2{height: 300px;width: 200px; float: left;}
+.img2 img {height: 300px;width: 200px;margin-left: 300px;}
+.img3{height: 300px;width: 200px; float: right;}
+.img3 img{height: 300px;width: 200px;margin-left: 300px;}
+.banner{height: 600px;
+	width: 100%;
+    margin:0 auto;
+	}
+.banner h2{text-align: center;margin-top: 20px;}
+.banner2{height: 500px; width: 100%;margin-top: 20px;}
+#right{height: 80px;width: 60%;background-color: forestgreen;float: right;margin-bottom: 30px;}
+#right p{color: white;font-size: 50px;margin-left:100px;font-family: 楷体;}
+#left{height: 200px;width: 70%;background-color: #006400;float: left;line-height: 50px;}
+#left p{color: white;font-family: "楷体";font-size: 22px;}
+.img1{
+	height:400px ;
+	width:250px ;
+	margin: 98px 200px 0 100px;
+	float: right;
+}
+.img1 img{width: 250px;height: 350px;}
+.banner3{height: 700px;width: 100%;margin-top: 10px;background-image: url(../img/rzt3xomciturzt3xomcitu.jpg);background-size:100% 700px;}
+#img{height: 660px;width: 500px;float: left;margin: 20px;}
+#img img{height: 660px; width: 500px;margin-bottom: 0;}
+#ba{height: 300px;width: 60%;float: right; line-height: 80px;margin-right: 40px;}
+#ba h1{text-align: center;font-size: 70px;}
+#ba p{color: white;font-size: 40px;}
